@@ -45,16 +45,6 @@ Dalam project ini, saya melakukan **analisis performa bisnis** dengan mengolah l
 
 ---
 
-## 📈 Key Insights  
-
-- **Tren Tahunan** → Nett profit 2020–2023 menunjukkan pola naik turun, dengan performa terbaik di tahun 2022.  
-- **Top Cabang** → Kimia Farma Klinik & Apotek (Langsa, Aceh) mencatat rating cabang 4,5 dan rating transaksi 5.  
-- **Top Produk** → Psycholeptics Drugs, Hypnotics & Sedatives Drugs → nett profit 15,4 M (16% dari total transaksi).  
-- **Top Kota & Provinsi** → Subang (3,2 M) dan Jawa Barat (26,9 M) sebagai penyumbang utama nett profit.  
-- **Sebaran Provinsi** → Provinsi dengan nett profit rendah dapat dijadikan target strategi pasar berikutnya.  
-
----
-
 ## 📊 Dashboard  
 
 Berikut adalah hasil visualisasi dashboard pada **Google Looker Studio**:  
@@ -62,6 +52,16 @@ Berikut adalah hasil visualisasi dashboard pada **Google Looker Studio**:
 ![Dashboard Preview](dashboard_kimia_farma.png)  
 
 🔗 [Lihat Dashboard Lengkap di Looker Studio](https://lookerstudio.google.com/reporting/69d60805-a7ee-482c-b059-46cadf110189)
+
+---
+
+## 📈 Key Insights  
+
+- **Tren Tahunan** → Nett profit 2020–2023 menunjukkan pola naik turun, dengan performa terbaik di tahun 2022.  
+- **Top Cabang** → Kimia Farma Klinik & Apotek (Langsa, Aceh) mencatat rating cabang 4,5 dan rating transaksi 5.  
+- **Top Produk** → Psycholeptics Drugs, Hypnotics & Sedatives Drugs → nett profit 15,4 M (16% dari total transaksi).  
+- **Top Kota & Provinsi** → Subang (3,2 M) dan Jawa Barat (26,9 M) sebagai penyumbang utama nett profit.  
+- **Sebaran Provinsi** → Provinsi dengan nett profit rendah dapat dijadikan target strategi pasar berikutnya.  
 
 ---
 
