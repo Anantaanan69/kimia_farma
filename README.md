@@ -59,7 +59,7 @@ Dalam project ini, saya melakukan **analisis performa bisnis** dengan mengolah l
 
 Berikut adalah hasil visualisasi dashboard pada **Google Looker Studio**:  
 
-![Dashboard Preview](dashboard_prev.png)  
+![Dashboard Preview](dashboard_kimia_farma.png)  
 
 🔗 [Lihat Dashboard Lengkap di Looker Studio](https://lookerstudio.google.com/reporting/69d60805-a7ee-482c-b059-46cadf110189)
 
