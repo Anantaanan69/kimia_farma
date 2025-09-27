@@ -55,6 +55,18 @@ Dalam project ini, saya melakukan **analisis performa bisnis** dengan mengolah l
 
 ---
 
+## 📊 Dashboard  
+
+Berikut adalah hasil visualisasi dashboard pada **Google Looker Studio**:  
+
+![Dashboard Preview](dashboard_prev.png)  
+*(Ganti `dashboard_preview.png` dengan nama file screenshot dashboard kamu)*  
+
+🔗 [Lihat Dashboard Lengkap di Looker Studio]([https://lookerstudio.google.com/your-link-di-sini](https://lookerstudio.google.com/reporting/69d60805-a7ee-482c-b059-46cadf110189))  
+*(Ganti link dengan link publik Looker Studio kamu)*  
+
+---
+
 ## 🛠️ Tech Stack  
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
